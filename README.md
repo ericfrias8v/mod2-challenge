@@ -5,4 +5,4 @@ This is my protfolio where I have my contact information, previous projects and 
 
 ![2022-09-26 (1)](https://user-images.githubusercontent.com/112228063/192423374-074d6bcd-d165-4736-878d-48febab8a353.png)
 
-![2022-09-26](https://user-images.githubusercontent.com/112228063/192423482-8ed63097-df38-4818-bd83-9bc1f13bc24e.png)
+![2022-09-26 (2)](https://user-images.githubusercontent.com/112228063/192425960-3989772d-069a-464a-a1d1-7c898571ecc4.png)
